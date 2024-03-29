@@ -1,0 +1,11 @@
+Jinja2
+MarkupSafe
+blinker
+click
+colorama
+flask
+itsdangerous
+pip
+setuptools
+werkzeug
+wheel
